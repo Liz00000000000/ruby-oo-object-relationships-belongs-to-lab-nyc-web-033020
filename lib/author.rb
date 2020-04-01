@@ -1,4 +1,4 @@
-class Author 
-  attr_reader :name 
+class Author
+  attr_reader :name
   
-end 
+end
