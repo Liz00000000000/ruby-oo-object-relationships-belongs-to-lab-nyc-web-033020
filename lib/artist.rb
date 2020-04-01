@@ -1,8 +1,6 @@
 class Artist
-  attr_reader :name
+  attr_accessor :name
   def initalize(name)
     @name = name
   end
 end
-
-beyonce = artist.new("Beyonce")
